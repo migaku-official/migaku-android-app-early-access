@@ -1,0 +1,1 @@
+Early Access releases of the Migaku Android App take place in this GitHub repository!
